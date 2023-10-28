@@ -85,7 +85,7 @@ You recover 0.9 hit points per level (minimum 5) each round." />
   </object>
 
   <object Name="Gearlink_SCARAPPLE_ScarappleJam" Inherits="Preservable">
-    <part Name="Render" DisplayName="{{m|scarapple jam}}" ColorString="&amp;C" TileColor="&amp;C" DetailColor="m" Tile="Items/sw_sparktick_plasma.bmp" />
+    <part Name="Render" DisplayName="{{m|scarapple jam}}" ColorString="&amp;C" TileColor="&amp;C" DetailColor="m" Tile="Items/sw_Jam.bmp" />
     <part Name="Commerce" Value="10" />
     <part Name="Description" Short="Unripe scarapples were diced, mashed, and heated until they stopped moving, then jarred for later use. Bits of stringy pulp lay suspended in the fruity aether." />
     <part Name="PreparedCookingIngredient" type="regenHightier" charges="1" />
