@@ -16,7 +16,7 @@
     <stat Name="ColdResistance" Value="25" />
     <stat Name="ElectricResistance" Value="25" />
     <stat Name="AcidResistance" Value="25" />
-    <part Name="FabricateFromSelf" ChargeUse="0" FabricateBlueprint="Gearlink_SCARAPPLE_RipeScarapple" FabricateVerb="pluck" FabricateAlternateSource="heavy branches" BatchSize="1" HitpointsPer="1" AIUseForThrowing="true" AIHitpointsThreshold="10" HitpointsThreshold="5" EnergyCost="100" Cooldown="1d3+1" IsBioScannable="true" />
+    <part Name="FabricateFromSelf" ChargeUse="0" FabricateBlueprint="Gearlink_SCARAPPLE_RipeScarapple" FabricateVerb="pluck" FabricateAlternateSource=" the canopy" BatchSize="1" HitpointsPer="0" AIUseForThrowing="true" AIHitpointsThreshold="0" HitpointsThreshold="0" EnergyCost="100" Cooldown="1d3+1" IsBioScannable="true" />
     <skill Name="Tactics_Throwing" />
     <mutation Name="Regeneration" Level="10" />
     <property Name="Role" Value="Artillery" />
