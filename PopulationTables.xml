@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<populations>
+
+	<population Name="DeepJungleZoneGlobals-Creatures" Load="Merge">
+		<object Chance="2" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarAppleTree" />
+		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarApple" />
+	</population>
+
+	<population Name="BaroqueRuinsZoneGlobals-Creatures" Load="Merge">
+		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarAppleTree" />
+		<object Chance="8" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarApple" />
+	</population>
+
+</populations>
