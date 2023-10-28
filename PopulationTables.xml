@@ -6,9 +6,21 @@
 		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarapple" />
 	</population>
 
+	<population Name="LairOwners_DeepJungle" Load="Merge">
+		<group Name="Options" Style="pickone">
+			<object Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
+		</group>
+	</population>
+
 	<population Name="BaroqueRuinsZoneGlobals-Creatures" Load="Merge">
 		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
 		<object Chance="8" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarapple" />
 	</population>
+
+	<population Name="LairOwners_BaroqueRuins" Load="Merge">
+    <group Name="Options" Style="pickone">
+      <object Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
+    </group>
+  </population>
 
 </populations>

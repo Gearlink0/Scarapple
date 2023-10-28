@@ -9,7 +9,6 @@
     <stat Name="Level" Value="28" />
     <stat Name="Hitpoints" Value="150" />
   	<stat Name="Agility" Boost="2" />
-    <inventoryobject Blueprint="Gearlink_SCARAPPLE_RipeScarapple" Number="1" />
     <inventoryobject Blueprint="Gearlink_SCARAPPLE_ScarappleTreeBranch" Number="2" />
     <tag Name="Noswap" />
     <stat Name="HeatResistance" Value="25" />
@@ -20,8 +19,8 @@
     <skill Name="Tactics_Throwing" />
     <mutation Name="Regeneration" Level="10" />
     <property Name="Role" Value="Artillery" />
-    <!-- <tag Name="DynamicObjectsTable:DeepJungle_Creatures" />
-    <tag Name="DynamicObjectsTable:BaroqueRuins_Creatures" /> -->
+    <tag Name="DynamicObjectsTable:DeepJungle_Creatures" />
+    <tag Name="DynamicObjectsTable:BaroqueRuins_Creatures" />
   </object>
   <object Name="Gearlink_SCARAPPLE_ScarappleTreeBranch" Inherits="NaturalWeapon">
     <part Name="MeleeWeapon" HitBonus="5" BaseDamage="4d3" Skill="Cudgel" Stat="Strength" Slot="Hand" />
