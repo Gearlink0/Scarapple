@@ -2,7 +2,7 @@
 <bodies>
 	<anatomies>
 
-		<anatomy Name="Gearlink_SCARAPPLE_RipeScarAppleBody">
+		<anatomy Name="Gearlink_SCARAPPLE_RipeScarappleBody">
       <part Type="Central Mass">
         <part Type="Sensory Bud" />
       </part>

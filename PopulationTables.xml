@@ -2,13 +2,13 @@
 <populations>
 
 	<population Name="DeepJungleZoneGlobals-Creatures" Load="Merge">
-		<object Chance="2" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarAppleTree" />
-		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarApple" />
+		<object Chance="2" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
+		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarapple" />
 	</population>
 
 	<population Name="BaroqueRuinsZoneGlobals-Creatures" Load="Merge">
-		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarAppleTree" />
-		<object Chance="8" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarApple" />
+		<object Chance="4" Number="1" Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
+		<object Chance="8" Number="1" Blueprint="Gearlink_SCARAPPLE_RipeScarapple" />
 	</population>
 
 </populations>
