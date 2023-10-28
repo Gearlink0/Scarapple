@@ -4,7 +4,7 @@
     <part Name="Render" RenderIfDark="true" DisplayName="scarapple tree" RenderString="157" Tile="Gearlink_Scarapple/ScarappleTree.png" ColorString="&amp;g" DetailColor="m"/>
     <part Name="Description" Short="Runaway replication has rent =pronouns.possessive= bark into a patchwork of pale seams. Blob fruits ripen towards ambulatory independence." />
     <part Name="Brain" Hostile="true" Wanders="false" Mobile="false" Factions="Trees-100" />
-    <part Name="Corpse" CorpseChance="50" CorpseBlueprint="Gearlink_SCARAPPLE_ScarappleTreeCorpse" />
+    <part Name="Corpse" CorpseChance="20" CorpseBlueprint="Gearlink_SCARAPPLE_ScarappleTreeCorpse" />
     <stat Name="AV" Value="8" />
     <stat Name="Level" Value="28" />
     <stat Name="Hitpoints" Value="150" />
@@ -75,12 +75,13 @@
     <tag Name="SpecialCookingIngredient" />
     <tag Name="ChooseToPreserve" />
     <part Name="Tonic" Eat="true" />
-    <part Name="Salve_Tonic_Applicator" />
+    <part Name="Ubernostrum_Tonic_Applicator" />
     <part Name="AIHealingTonicUse" />
     <part Name="RulesDescription" Text="Duration: 5 rounds
 You recover 0.6 hit points per level (minimum 3) each round." AltForGenotype="True Kin" GenotypeAlt="Duration: 5 rounds
 You recover 0.9 hit points per level (minimum 5) each round." />
     />
+    <part Name="Commerce" Value="75" />
   </object>
 
   <object Name="Gearlink_SCARAPPLE_ScarappleJam" Inherits="Preservable">
