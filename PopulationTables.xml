@@ -23,4 +23,10 @@
     </group>
   </population>
 
+	<population Name="Ingredients_MidTiers" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Blueprint="Gearlink_SCARAPPLE_ScarappleJam" Number="1" Weight="5" />
+    </group>
+  </population>
+
 </populations>
