@@ -7,7 +7,7 @@
 	</population>
 
 	<population Name="LairOwners_DeepJungle" Load="Merge">
-		<group Name="Options" Style="pickone">
+		<group Name="Options" Load="Merge">
 			<object Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
 		</group>
 	</population>
@@ -18,7 +18,7 @@
 	</population>
 
 	<population Name="LairOwners_BaroqueRuins" Load="Merge">
-    <group Name="Options" Style="pickone">
+    <group Name="Options" Load="Merge">
       <object Blueprint="Gearlink_SCARAPPLE_ScarappleTree" />
     </group>
   </population>
