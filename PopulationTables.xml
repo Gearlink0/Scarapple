@@ -29,4 +29,52 @@
     </group>
   </population>
 
+	<population Name="Village Apothecary 5" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" Number="0-1" Chance="50" />
+    </group>
+  </population>
+
+  <population Name="Village Apothecary 6" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" Number="0-1" Chance="50" />
+    </group>
+  </population>
+
+  <population Name="Village Apothecary 7" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" Number="1" Chance="50" />
+    </group>
+  </population>
+
+  <population Name="Village Apothecary 8" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" Number="1" Chance="50" />
+    </group>
+  </population>
+
+	<population Name="Food 5" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Weight="1" Number="1" Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" />
+    </group>
+  </population>
+
+  <population Name="Food 6" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Weight="1" Number="1" Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" />
+    </group>
+  </population>
+
+  <population Name="Food 7" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Weight="1" Number="1" Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" />
+    </group>
+  </population>
+
+  <population Name="Food 8" Load="Merge">
+    <group Name="Items" Load="Merge">
+      <object Weight="1" Number="1" Blueprint="Gearlink_SCARAPPLE_UnripeScarapple" />
+    </group>
+  </population>
+
 </populations>
