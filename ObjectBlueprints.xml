@@ -2,7 +2,7 @@
 <objects>
   <object Name="Gearlink_SCARAPPLE_ScarappleTree" Inherits="MutatedTree">
     <part Name="Render" RenderIfDark="true" DisplayName="scarapple tree" Tile="Gearlink_Scarapple/ScarappleTree.png" ColorString="&amp;g" DetailColor="m"/>
-    <part Name="Description" Short="Runaway replication has rent =pronouns.possessive= bark into a patchwork of pale seams. Blob fruits ripen towards ambulatory independence." />
+    <part Name="Description" Short="Runaway replication has rent =pronouns.possessive= bark into a patchwork of pale seams. Violet blobs dot the canopy and ripen towards ambulatory independence. Oversized branches bob up and down, judging =pronouns.possessive= fruits’ virtues as projectiles." />
     <part Name="Brain" Hostile="true" Wanders="false" Mobile="false" Factions="Trees-100" />
     <!-- Have the tree only occasionally drop a corpse since it can produce an item equivalent to an Ubernostrum injector. -->
     <part Name="Corpse" CorpseChance="20" CorpseBlueprint="Gearlink_SCARAPPLE_ScarappleTreeCorpse" />
@@ -60,7 +60,7 @@
     <stat Name="Ego" sValue="8,1d3" />
     <part Name="Body" Anatomy="Gearlink_SCARAPPLE_RipeScarappleBody" />
     <part Name="Render" DisplayName="ripe scarapple" Tile="Gearlink_Scarapple/RipeScarapple.png" ColorString="&amp;m" DetailColor="g"/>
-    <part Name="Description" Short="Fruit-flesh has bulged into aproximations of limbs, tearing the rind into a mosiac." />
+    <part Name="Description" Short="Fruit-flesh has bulged into approximations of limbs, tearing the rind into a mosaic reminiscent of their parent and epithet. A crater in the main body records the memory of a violent impact." />
     <part Name="Brain" Hostile="true" Factions="Trees-100" />
     <stat Name="AV" Value="7" />
     <stat Name="Level" Value="16" />
